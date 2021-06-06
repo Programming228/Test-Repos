@@ -1,2 +1,1 @@
-//lkcnmasodnondnd
-//ffffwf
+console.log("Hello!")
